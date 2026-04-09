@@ -1,0 +1,17 @@
+FACILITIES	negative	211
+FACILITIES	positive	213
+FOOD&DRINKS	negative	277
+FOOD&DRINKS	positive	366
+HOTEL	negative	341
+HOTEL	positive	2942
+LOCATION	negative	95
+LOCATION	positive	843
+ROOMS	negative	515
+ROOMS	positive	1904
+ROOM_AMENITIES	negative	403
+ROOM_AMENITIES	positive	834
+SERVICE	negative	266
+SERVICE	positive	1906
+
+Aspect nhận nhiều đánh giá TÍCH CỰC nhất: HOTEL	2942
+Aspect nhận nhiều đánh giá TIÊU CỰC nhất: ROOMS	515
